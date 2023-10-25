@@ -7,5 +7,7 @@
 ### Контакты
 
 [Telegram](https://t.me/SWED_DIMA)
+
 [VK](https://vk.com/dimaswed)
-[Instagramm](https://www.instagram.com/dima.swed/)
+
+[Instagram](https://www.instagram.com/dima.swed/)
