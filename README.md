@@ -2,7 +2,7 @@
 
 Меня зовут **Дмитрий Буланкин** я начал заниматься web разработкой в 2023 году.
 
-Мой стек : HTML, BEM, CSS, SASS, JavaScript, GULP
+Мой стек : HTML, BEM, CSS, SASS, JavaScript, GULP, Webpack, React
 
 ### Контакты
 
